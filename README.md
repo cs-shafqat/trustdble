@@ -1,4 +1,7 @@
 # TRUSTDBLE
+
+> 📌 **Contributor Note:** I served as Scientific Assistant & Lead Dashboard Developer on this project at TU Darmstadt (2021–2023). For a detailed breakdown of my engineering contributions, see [**MY_CONTRIBUTIONS.md**](./MY_CONTRIBUTIONS.md).
+
 A trusted data management system based on blockchains. It extends mysql-server with a additional storage engine to store data on a blockchain and a rewrite plugin that adds new 'shared' commands to create shared databases and shared tables. So multiple parties can collaborate on table at the same time. More in formation are inside the sub folders.
 
 ## Benchmark
